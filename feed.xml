@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>湘大一刘的Blog</title>
+    <title>Learn &amp; Code</title>
     <link>http://lz-xtu.github.io/</link>
-    <description>Recent content on 湘大一刘的Blog</description>
+    <description>Recent content on Learn &amp; Code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <atom:link href="http://lz-xtu.github.io/feed/index.xml" rel="self" type="application/rss+xml" />
