@@ -1,27 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Learn &amp; Code</title>
-    <link>http://lz-xtu.github.io/</link>
-    <description>Recent content on Learn &amp; Code</description>
+    <title>Bar on Learn &amp; Code</title>
+    <link>http://lz-xtu.github.io/tags/bar/</link>
+    <description>Recent content in Bar on Learn &amp; Code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 03 Sep 2016 12:28:02 +0800</lastBuildDate>
-    <atom:link href="http://lz-xtu.github.io/feed/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>About</title>
-      <link>http://lz-xtu.github.io/about/</link>
-      <pubDate>Sat, 03 Sep 2016 12:28:02 +0800</pubDate>
-      
-      <guid>http://lz-xtu.github.io/about/</guid>
-      <description>
-
-&lt;h2 id=&#34;关于&#34;&gt;关于&lt;/h2&gt;
-
-&lt;h3 id=&#34;这家伙很懒-没有写关于页&#34;&gt;这家伙很懒，没有写关于页！&lt;/h3&gt;
-</description>
-    </item>
+    <lastBuildDate>Sun, 20 Mar 2016 12:13:19 +0800</lastBuildDate>
+    <atom:link href="http://lz-xtu.github.io/tags/bar/feed/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>first</title>
