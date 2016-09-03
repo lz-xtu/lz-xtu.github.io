@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Learn &amp; Code</title>
-    <link>http://lz-xtu.github.io/</link>
-    <description>Recent content on Learn &amp; Code</description>
+    <title>Posts on Learn &amp; Code</title>
+    <link>http://lz-xtu.github.io/post/</link>
+    <description>Recent content in Posts on Learn &amp; Code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Sat, 03 Sep 2016 13:28:02 +0800</lastBuildDate>
-    <atom:link href="http://lz-xtu.github.io/feed/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://lz-xtu.github.io/post/feed/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>First Blog for test</title>
