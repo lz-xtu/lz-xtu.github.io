@@ -6,20 +6,18 @@
     <description>Recent content on Learn &amp; Code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 03 Sep 2016 13:28:02 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 21:39:20 +0800</lastBuildDate>
     <atom:link href="http://lz-xtu.github.io/feed/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>First Blog for test</title>
-      <link>http://lz-xtu.github.io/post/First/</link>
-      <pubDate>Sat, 03 Sep 2016 13:28:02 +0800</pubDate>
+      <title>终于搭好了</title>
+      <link>http://lz-xtu.github.io/post/first/</link>
+      <pubDate>Sun, 01 Jan 2017 21:39:20 +0800</pubDate>
       
-      <guid>http://lz-xtu.github.io/post/First/</guid>
-      <description>
+      <guid>http://lz-xtu.github.io/post/first/</guid>
+      <description>&lt;p&gt;很久以前就有做个Blog的想法，一直没有行动：国内的免费博客服务不是很稳定，限制多，没有好的备份方案；国外的博客服务访问慢，还有“土啬”的风险；独立博客维护工作量大。暑假的时候终于找到了相对比较理想的方案：GitPages，天生本地备份，维护简单，Markdown内容就好，有多种方案生成静态页面（看了几个说明，选了Hugo），缺点就是不支持动态（但可以通过一些方法在一定程度上弥补）。&lt;/p&gt;
 
-&lt;h2 id=&#34;first-blog&#34;&gt;First Blog.&lt;/h2&gt;
-
-&lt;h3 id=&#34;too-lazy-to-write-any-more&#34;&gt;Too lazy to write any more. :)&lt;/h3&gt;
+&lt;p&gt;一晃就2017年元旦了，趁着放假有点时间，捣鼓了一下，终于搭起来了！&lt;/p&gt;
 </description>
     </item>
     
