@@ -6,8 +6,27 @@
     <description>Recent content on Learn &amp; Code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 01 Jan 2017 21:39:20 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jan 2017 12:29:03 +0800</lastBuildDate>
     <atom:link href="http://lz-xtu.github.io/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>TV Power Board</title>
+      <link>http://lz-xtu.github.io/post/TV-Power-Board/</link>
+      <pubDate>Mon, 02 Jan 2017 12:29:03 +0800</pubDate>
+      
+      <guid>http://lz-xtu.github.io/post/TV-Power-Board/</guid>
+      <description>&lt;p&gt;本来应该在2016-10-30写的，当时Blog还没搞好：&lt;/p&gt;
+
+&lt;p&gt;电视机突然点不亮了，已过保修期，售后要价三四百，修理铺也要两三百，都是直接换板。换板子这么没有技术含量的事为什么要花那么多钱请你们？！Google了十分钟，大致知道了哪里的问题，再上淘宝找了家店，上面有故障判断方法，照着测试了一下，确定了板子，用时不到1小时。今天到货，￥40包邮。半个小时换好试机，原地复活！
+&lt;center&gt;
+&lt;img src=&#34;TV-Power-Board-1.jpg&#34; width=&#34;500&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;TV-Power-Board-2.jpg&#34; width=&#34;500&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;TV-Power-Board-3.jpg&#34; width=&#34;500&#34; /&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>终于搭好了</title>
