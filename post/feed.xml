@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Code &amp; Create</title>
-    <link>http://lz-xtu.github.io/post/feed/index.xml</link>
+    <link>http://lz-xtu.github.io/post/</link>
     <description>Recent content in Posts on Code &amp; Create</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
