@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Learn &amp; Code</title>
+    <title>Posts on Code &amp; Create</title>
     <link>http://lz-xtu.github.io/post/</link>
-    <description>Recent content in Posts on Learn &amp; Code</description>
+    <description>Recent content in Posts on Code &amp; Create</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Mon, 02 Jan 2017 12:29:03 +0800</lastBuildDate>
@@ -15,7 +15,7 @@
       <pubDate>Mon, 02 Jan 2017 12:29:03 +0800</pubDate>
       
       <guid>http://lz-xtu.github.io/post/TV-Power-Board/</guid>
-      <description>&lt;p&gt;本来应该在2016-10-30写的，当时Blog还没搞好：&lt;/p&gt;
+      <description>&lt;p&gt;本来应该在2016-10-30写的，当时Blog还没搞好 :(&lt;/p&gt;
 
 &lt;p&gt;电视机突然点不亮了，已过保修期，售后要价三四百，修理铺也要两三百，都是直接换板。换板子这么没有技术含量的事为什么要花那么多钱请你们？！Google了十分钟，大致知道了哪里的问题，再上淘宝找了家店，上面有故障判断方法，照着测试了一下，确定了板子，用时不到1小时。今天到货，￥40包邮。半个小时换好试机，原地复活！
 &lt;center&gt;
